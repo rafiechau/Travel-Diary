@@ -21,7 +21,6 @@ export const useLogin = () => {
 
   }, [navigate, location.pathname]);
 
-  // ... other logic if needed
 
   return; 
   };

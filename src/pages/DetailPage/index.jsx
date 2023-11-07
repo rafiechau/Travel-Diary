@@ -5,6 +5,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { getPostDetailsRequest } from './actions';
 import { Box, Container, Typography } from '@mui/material';
 import { useLogin } from '../../hooks/useLogin';
+import Navigation from '../../components/Navigation';
 
 const DetailPage = () => {
   const { id } = useParams(); // This will get the id from the URL
@@ -20,8 +21,10 @@ const DetailPage = () => {
   if (error) return <p>Error loading post: {error}</p>;
 
   return (
+    <>
+      <Navigation />
     <Container maxWidth={'xl'}>
-      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 3 }}>
       <Typography variant="h4">{post.title}</Typography>
       <Typography paragraph>{user.fullname || user.fullName}</Typography>
       </Box>
@@ -32,6 +35,8 @@ const DetailPage = () => {
       <Typography paragraph>{user.fullname || user.fullName}</Typography>
       <Typography paragraph>{user.email}</Typography> */}
     </Container>
+    </>
+    
   );
 };
 

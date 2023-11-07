@@ -11,6 +11,12 @@
       "email": "rafi@gmail.com",
       "password": "123456",
       "id": 2
+    },
+    {
+      "fullName": "rafi",
+      "email": "rafiqauti12@gmail.com",
+      "password": "123456",
+      "id": 3
     }
   ],
   "posts": [
@@ -103,12 +109,30 @@
       "userId": 1,
       "date": "2023-11-07T09:12:08.559Z",
       "id": 10
+    },
+    {
+      "title": "ini judul saya yang pertama",
+      "imageUrl": "https://images.unsplash.com/photo-1682686581295-7364cabf5511?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "shortDescription": "ini short description",
+      "description": "<p>ini short description</p>",
+      "userId": 3,
+      "date": "2023-11-07T09:55:26.823Z",
+      "id": 11
     }
   ],
   "bookmarks": [
     {
+      "title": "ini judul saya yang pertama",
+      "imageUrl": "https://images.unsplash.com/photo-1682686581295-7364cabf5511?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "shortDescription": "ini short description",
+      "description": "<p>ini short description</p>",
+      "userId": 3,
+      "date": "2023-11-07T09:55:26.823Z",
+      "id": 11
+    },
+    {
       "id": 1,
-      "userId": 1,
+      "userId": 3,
       "title": "Judul Post 1",
       "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
       "shortDescription": "Ini adalah deskripsi singkat dari post.",
@@ -116,13 +140,22 @@
       "date": "2023-04-05T08:40:51.620Z"
     },
     {
-      "id": 2,
-      "userId": 1,
-      "title": "Judul Post 2",
+      "id": 3,
+      "userId": 3,
+      "title": "Judul Post 3",
       "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
       "shortDescription": "Ini adalah deskripsi singkat dari post.",
       "description": "Ini adalah deskripsi lengkap dari post.",
       "date": "2023-04-05T08:40:51.620Z"
+    },
+    {
+      "title": "cqwqw",
+      "imageUrl": "wqcqwc",
+      "shortDescription": "cqwcwqc",
+      "description": "cqwcwq",
+      "userId": 3,
+      "date": "2023-11-07T01:46:51.239Z",
+      "id": 4
     }
   ]
 }

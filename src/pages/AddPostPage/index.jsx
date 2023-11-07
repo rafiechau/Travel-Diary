@@ -10,6 +10,7 @@ import { Settings } from '@mui/icons-material';
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css';
 import { useLogin } from '../../hooks/useLogin';
+import Navigation from '../../components/Navigation';
 
 const AddPostPage = () => {
   const userData = localStorage.getItem('userData');
@@ -45,9 +46,9 @@ const handleRegister = async (event) => {
 
   return (
     <>
-      
+      <Navigation/>
             <Container maxWidth="xl">
-            <Typography variant="h6">Register</Typography>
+            <Typography variant="h6" sx={{ marginTop: 3 }}>Register</Typography>
             <form onSubmit={handleRegister} noValidate>
               <Box
                 sx={{
