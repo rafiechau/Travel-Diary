@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Muhammad Rafie Chautie",
+      "email": "rafiqauti13@gmail.com",
+      "password": "123456"
+    },
+    {
+      "fullName": "rafie",
+      "email": "rafi@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Judul Post 1",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "Ini adalah deskripsi singkat dari post.",
+      "description": "Ini adalah deskripsi lengkap dari post.",
+      "date": "2023-04-05T08:40:51.620Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Judul Post 2",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "Ini adalah deskripsi singkat dari post.",
+      "description": "Ini adalah deskripsi lengkap dari post.",
+      "date": "2023-04-05T08:40:51.620Z"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Judul Post 3",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "Ini adalah deskripsi singkat dari post.",
+      "description": "Ini adalah deskripsi lengkap dari post.",
+      "date": "2023-04-05T08:40:51.620Z"
+    },
+    {
+      "title": "cqwqw",
+      "imageUrl": "wqcqwc",
+      "shortDescription": "cqwcwqc",
+      "description": "cqwcwq",
+      "userId": 1,
+      "date": "2023-11-07T01:46:51.239Z",
+      "id": 4
+    },
+    {
+      "title": "wcdqwqwc",
+      "imageUrl": "wcwqc",
+      "shortDescription": "cqwcq",
+      "description": "cwcqwc",
+      "userId": 1,
+      "date": "2023-11-07T01:48:34.817Z",
+      "id": 5
+    },
+    {
+      "title": "dwcqwc",
+      "imageUrl": "cdqwc",
+      "shortDescription": "cdqwc",
+      "description": "cqwcwqc",
+      "userId": 1,
+      "date": "2023-11-07T01:51:23.186Z",
+      "id": 6
+    },
+    {
+      "title": "cdqwcwq",
+      "imageUrl": "cwqwecwq",
+      "shortDescription": "cqwdcwq",
+      "description": "cqwcwq",
+      "userId": 2,
+      "date": "2023-11-07T01:54:04.538Z",
+      "id": 7
+    },
+    {
+      "title": "cdqwcwq",
+      "imageUrl": "cwqwecwq",
+      "shortDescription": "cqwdcwq",
+      "description": "cqwcwq",
+      "userId": 2,
+      "date": "2023-11-07T01:54:10.951Z",
+      "id": 8
+    },
+    {
+      "title": "cwcw",
+      "imageUrl": "cqwcqw",
+      "shortDescription": "wdcqc",
+      "description": "<p>cwqecwqc</p>",
+      "userId": 1,
+      "date": "2023-11-07T08:46:26.859Z",
+      "id": 9
+    },
+    {
+      "title": "ecwqcqw",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1668447600041-f050214ed5bb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "cecqwc",
+      "description": "<p>wecqwecqwcwe</p>",
+      "userId": 1,
+      "date": "2023-11-07T09:12:08.559Z",
+      "id": 10
+    }
+  ],
+  "bookmarks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Judul Post 1",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "Ini adalah deskripsi singkat dari post.",
+      "description": "Ini adalah deskripsi lengkap dari post.",
+      "date": "2023-04-05T08:40:51.620Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Judul Post 2",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1697898009147-28530d34edc3?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8",
+      "shortDescription": "Ini adalah deskripsi singkat dari post.",
+      "description": "Ini adalah deskripsi lengkap dari post.",
+      "date": "2023-04-05T08:40:51.620Z"
+    }
+  ]
+}

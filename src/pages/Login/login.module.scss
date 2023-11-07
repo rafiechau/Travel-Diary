@@ -1,0 +1,13 @@
+// This is just an example. Adjust it to meet the responsive design requirements.
+.logincontainer {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  

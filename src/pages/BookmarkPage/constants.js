@@ -1,0 +1,5 @@
+export const GET_ALL_BOOKMARKS = "GET_ALL_BOOKMARKS";
+export const SET_ALL_BOOKMARKS = "SET_ALL_BOOKMARKS";
+
+
+

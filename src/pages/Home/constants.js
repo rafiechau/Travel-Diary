@@ -1,0 +1,8 @@
+export const GET_ALL_POST = "GET_ALL_POST";
+export const SET_ALL_POST = "SET_ALL_POST";
+
+
+// constants.js
+export const BOOKMARK_POST_REQUEST = 'BOOKMARK_POST_REQUEST';
+export const BOOKMARK_POST_SUCCESS = 'BOOKMARK_POST_SUCCESS';
+export const BOOKMARK_POST_FAILURE = 'BOOKMARK_POST_FAILURE';

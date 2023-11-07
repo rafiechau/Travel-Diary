@@ -1,0 +1,20 @@
+.containersearch{
+    // background-color: pink;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.saved{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 999px;
+    button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+}
